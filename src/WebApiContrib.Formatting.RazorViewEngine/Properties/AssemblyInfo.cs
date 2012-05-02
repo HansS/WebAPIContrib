@@ -1,4 +1,4 @@
-﻿using System.Reflection;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("WebApiContrib")]
 [assembly: AssemblyProduct("WebApiContrib.Formatting.RazorViewEngine")]
-[assembly: AssemblyCopyright("Copyright © WebApiContrib 2012")]
+[assembly: AssemblyCopyright("Copyright � WebApiContrib 2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
